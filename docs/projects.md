@@ -1,5 +1,5 @@
 ---
-id: Lab12
+id: projects
 title: Projects
 ---
 
